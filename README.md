@@ -3,4 +3,4 @@
 News Search App using Reactjs
 ---
 > ![Website](public/images/screenshotapp.png)
-> ### [LiveWebsite](https://react-mealgenerator.netlify.app/)
+> ### [LiveWebsite](https://react-news-ap.netlify.app/)
